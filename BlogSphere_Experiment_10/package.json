@@ -1,0 +1,8 @@
+{
+  "name": "blogsphere-mini-blog",
+  "version": "1.0.0",
+  "description": "Experiment 10 - Mini Blog Web Application",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
